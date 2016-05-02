@@ -1,0 +1,24 @@
+{
+  "name": "jsgrafico",
+  "version": "1.0.0",
+  "description": "proyecto nodejs y mongodb con gafico de velas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiju84/nodejscandlestickchart.git"
+  },
+  "author": "javiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiju84/nodejscandlestickchart/issues"
+  },
+  "homepage": "https://github.com/javiju84/nodejscandlestickchart#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.4.14"
+  }
+}
